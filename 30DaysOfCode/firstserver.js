@@ -4,7 +4,7 @@ var http = require('http');
 var port=3000
 var host='127.0.0.1'
 var server=http.createServer((request,response)=>{
-    response.writeHead(200,{'Content-Type':'text/plain'});
+    response.writeHead(200,{'Content-Type':'text/pNlain'});
     console.log("server working");
     response.end('server created successfully!');
 });
