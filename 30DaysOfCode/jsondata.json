@@ -1,0 +1,11 @@
+{
+    "status":"200",
+    "message" : "Object created successfully",
+    "opstatus" : "1000",
+    "successcode":"success",
+    "data":[{
+        "name":"john.bailey",
+        "age":30,
+        "country":"USA"
+    }] 
+}
