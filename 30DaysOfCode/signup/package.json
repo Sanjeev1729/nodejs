@@ -1,0 +1,11 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "sample signup form",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sanjeev",
+  "license": "ISC"
+}

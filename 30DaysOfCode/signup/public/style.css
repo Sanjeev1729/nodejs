@@ -1,0 +1,41 @@
+.main{
+	text-align: center;
+	border: 5 border-style blue;
+	margin-top: 10%
+}
+.logintable{
+	margin-left:auto; 
+	margin-right:auto;
+	border-collapse: collapse;
+	border:10px solid #50d8a4;
+	border-radius: 40px;
+}
+#subtnsubmitbmit{
+	margin-left: 10%;
+	background-color: white;
+	border: 5px solid #50d8a4;
+	width: 20%;
+	height: 60%;
+	border-radius: 5px;
+	text-decoration-color: #bfbfbf;
+	font-family: 'Times New Roman', Times, serif;
+	size: 90%;
+}
+#btnsubmit:hover{
+   background-color: #50d8a4
+}
+#logindata{
+	text-align: center
+}
+.box{
+	width: 80%;
+	height: 70%;
+	box-sizing: border-box;
+	-ms-text-size-adjust: 20px;
+	border: none;
+	border-bottom: 2px solid #50d8a4;
+	margin-left: 5px;
+	text-decoration-color: #bfbfbf;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+}
